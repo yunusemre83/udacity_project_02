@@ -2,7 +2,7 @@ This is the second udacity project for Machine Learning Nanodegree Program - Stu
 
 There are six files in the repository:
 (1) student_intervention.ipynb
-	This is the ipython code for the project that creates three calssification models namely Decision Tree Classifier, SVM and KNN
+	This is the ipython code for the project that creates three calssification models namely Decision Tree Classifier, Support Vector Machines (SVM) and K-Nearest-Neigbors (KNN)
 (2) student_intervention.py
 	This is the python version of the project, it has Adaboost and Random Forest in addition to the classifiers used in ipython
 	This file also creates the bar charts of the classification performance of all classifiers that listed below
